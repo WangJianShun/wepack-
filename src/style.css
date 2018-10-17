@@ -1,0 +1,13 @@
+body{
+  background: #007acc;
+  transform: all .5s;
+  display:flex;
+}
+.w{
+  height:30px;
+  width:100px;
+}
+.a{
+  border:1px;
+  
+}
